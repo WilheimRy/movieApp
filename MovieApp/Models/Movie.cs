@@ -9,5 +9,8 @@ namespace MovieApp.Models
     {
         public int Id { get; set; }
         public string Name { get; set; }
+
+        public string MovieRegion { get; set; }
+
     }
 }
